@@ -17,6 +17,7 @@ h2 {
   font-weight: 400;
   margin-bottom: 30px;
   font-size: 34px;
+  font-weight: 600;
 }
 h3  {
   color: #fff;
@@ -182,6 +183,7 @@ bodyback {
   border-color: green;
 }
 
+
 /* About */
 #about {
   padding: 50px 0;
@@ -201,6 +203,7 @@ bodyback {
   margin-top: 20px;
   margin-bottom: 0px;
 } 
+
 
 /* Resume */
 #resume {
@@ -307,6 +310,7 @@ bodyback {
   margin-bottom: 0;
 }
 
+
 /* Research */
 #research {
   padding: 60px 0;
@@ -325,6 +329,43 @@ bodyback {
   margin-top: 15px;
   margin-bottom: 0px;
 }
+
+
+/* teaching */
+#teaching {
+  padding: 60px 0;
+  background: #e6e6e6;
+} 
+.teaching-box h4 { 
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 5px;
+}
+.teaching-box span.period {
+  font-size: 30px;
+  font-weight: 400;
+  display: block;
+  color: #121d1f; 
+}
+
+
+/* programming */
+#programming {
+  padding: 60px 0;
+  background: #f6f6f6;
+} 
+.programming-box h4 { 
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 5px;
+}
+.programming-box span.language {
+  font-size: 50px;
+  font-weight: 400;
+  display: block;
+  color: #121d1f; 
+}
+
 
 /* Contact */
 #contact {
@@ -353,6 +394,7 @@ bodyback {
   text-align: left;
 } 
 
+
 /* Footer */
 #footer {
   background: #121d1f;
@@ -363,6 +405,7 @@ bodyback {
   font-size: 17px;
   color: #7d8384;
 } 
+
 
 /* Media Queries */
 @media(min-width:768px) {
@@ -428,7 +471,6 @@ header .intro-text {
 }
 
 
-
 @media(min-width:992px) {
 #here-me h1 {
   margin: 10px 0 0px;
@@ -453,6 +495,7 @@ header .intro-text {
   padding: 0 20px 20px;
 }
 }
+
 
 @media(min-width:1200px) {
 .timeline>li {
