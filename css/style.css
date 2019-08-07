@@ -335,17 +335,12 @@ bodyback {
 #teaching {
   padding: 60px 0;
   background: #e6e6e6;
-} 
-.teaching-box h4 { 
-  font-size: 20px;
-  font-weight: 400;
-  margin-left: 5px;
-}
+}  
 .teaching-box span.period {
   font-size: 30px;
   font-weight: 400;
   display: block;
-  color: #121d1f; 
+  color: #4682B4; 
 }
 
 
@@ -353,12 +348,7 @@ bodyback {
 #programming {
   padding: 60px 0;
   background: #f6f6f6;
-} 
-.programming-box h4 { 
-  font-size: 20px;
-  font-weight: 400;
-  margin-left: 5px;
-}
+}  
 .programming-box span.language {
   font-size: 50px;
   font-weight: 400;
