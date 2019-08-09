@@ -383,6 +383,10 @@ bodyback {
   color: #E87E04;
   text-align: left;
 } 
+#contact span{
+  font-size: 30px;
+  margin-top: 20px;
+}
 
 
 /* Footer */
